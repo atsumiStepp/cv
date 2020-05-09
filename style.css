@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-height: 20px;
+  border-width: 5px;
+}
